@@ -1,5 +1,5 @@
 # istruzioni noshcraft
-1. Installa [Java JRE](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242057_3d5a2bb8f8d4428bbe94aed7ec7ae784)
+1. Installa [Java](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242057_3d5a2bb8f8d4428bbe94aed7ec7ae784)
 0. Installa Minecraft (Java 1.15.2)
 1. Installa [WireGuard VPN](https://www.wireguard.com/install/)
 2. Scarica il file di configurazione dalla cartella di Google drive condivisa
